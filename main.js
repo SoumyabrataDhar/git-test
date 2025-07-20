@@ -1,2 +1,2 @@
 console.log("Hello world");
-console.log("Version 1 with gitignore");
+console.log("Version 10 with gitignore");
